@@ -1,1 +1,2 @@
 openlistteam/openlist:latest
+vaultwarden/server:latest
