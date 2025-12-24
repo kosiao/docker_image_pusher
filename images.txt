@@ -1,2 +1,2 @@
 alpine:latest
-gdy666:lucky
+gdy666/lucky
