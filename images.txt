@@ -1,1 +1,1 @@
-jellyfin/jellyfin:latest
+docker.cnb.cool/frigate-cn/frigate:stable
