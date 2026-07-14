@@ -1,1 +1,1 @@
-kiwix/kiwix-serve
+kiwix/kiwix-tools
