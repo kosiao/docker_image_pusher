@@ -1,3 +1,4 @@
+ghcr.io/gethomepage/homepage:latest
 ghcr.io/blakeblackshear/frigate:stable
 openlistteam/openlist:latest
 p3terx/aria2-pro
