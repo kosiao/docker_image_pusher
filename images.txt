@@ -5,6 +5,7 @@ ghcr.io/blakeblackshear/frigate:stable
 openlistteam/openlist:latest
 p3terx/aria2-pro
 lscr.io/linuxserver/qbittorrent:latest
+cnk3x/xunlei:latest
 
 vaultwarden/server:latest
 
