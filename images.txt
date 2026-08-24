@@ -11,6 +11,8 @@ p3terx/aria2-pro
 lscr.io/linuxserver/qbittorrent:latest
 cnk3x/xunlei:latest
 
+mayswind/ezbookkeeping:latest
+
 vaultwarden/server:latest
 
 ghcr.io/immich-app/immich-server:release
