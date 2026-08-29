@@ -4,6 +4,7 @@ ghcr.io/blakeblackshear/frigate:stable
 
 jellyfin/jellyfin:latest
 ghcr.io/metatube-community/metatube-server:latest
+akiralereal/iptv:latest
 amtoaer/bili-sync-rs:latest
 
 openlistteam/openlist:latest
