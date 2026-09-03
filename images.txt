@@ -1,3 +1,5 @@
+ghcr.io/mhsanaei/3x-ui:latest
+
 ghcr.io/gethomepage/homepage:latest
 
 ghcr.io/blakeblackshear/frigate:stable
