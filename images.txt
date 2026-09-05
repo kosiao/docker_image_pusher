@@ -1,4 +1,4 @@
-ghcr.io/mhsanaei/3x-ui:latest
+alireza7/s-ui:latest
 
 ghcr.io/gethomepage/homepage:latest
 
