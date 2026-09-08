@@ -1,5 +1,7 @@
 alireza7/s-ui:latest
 
+glanceapp/glance
+
 ghcr.io/gethomepage/homepage:latest
 
 ghcr.io/blakeblackshear/frigate:stable
