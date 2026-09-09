@@ -1,4 +1,5 @@
 alireza7/s-ui:latest
+easytier/easytier:latest
 
 glanceapp/glance
 
