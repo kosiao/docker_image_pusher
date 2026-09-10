@@ -1,6 +1,8 @@
 alireza7/s-ui:latest
 easytier/easytier:latest
 
+jeessy/ddns-go
+
 glanceapp/glance
 
 ghcr.io/gethomepage/homepage:latest
