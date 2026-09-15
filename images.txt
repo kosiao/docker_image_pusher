@@ -3,6 +3,8 @@ easytier/easytier:latest
 
 jeessy/ddns-go
 
+diygod/rsshub
+
 glanceapp/glance
 
 ghcr.io/gethomepage/homepage:latest
