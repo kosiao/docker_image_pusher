@@ -1,9 +1,9 @@
 alireza7/s-ui:latest
-easytier/easytier:latest
 
 jeessy/ddns-go
 
 diygod/rsshub
+redis:alpine
 
 glanceapp/glance
 
