@@ -4,6 +4,8 @@ jeessy/ddns-go
 
 diygod/rsshub
 redis:alpine
+browserless/chrome
+
 freshrss/freshrss:latest
 
 glanceapp/glance
