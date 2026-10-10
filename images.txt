@@ -16,10 +16,9 @@ ghcr.io/blakeblackshear/frigate:stable
 
 jellyfin/jellyfin:latest
 ghcr.io/metatube-community/metatube-server:latest
+jlesage/handbrake
 
 cnk3x/xunlei:latest
-
-mayswind/ezbookkeeping:latest
 
 vaultwarden/server:latest
 
