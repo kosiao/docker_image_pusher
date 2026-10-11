@@ -8,7 +8,8 @@ browserless/chrome
 
 freshrss/freshrss:latest
 
-glanceapp/glance
+postgres:latest
+mattermost/mattermost-team-edition:latest
 
 ghcr.io/gethomepage/homepage:latest
 
