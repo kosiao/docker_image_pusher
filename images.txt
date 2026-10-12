@@ -8,8 +8,7 @@ browserless/chrome
 
 freshrss/freshrss:latest
 
-postgres:latest
-mattermost/mattermost-team-edition:latest
+matrixdotorg/synapse:latest
 
 ghcr.io/gethomepage/homepage:latest
 
