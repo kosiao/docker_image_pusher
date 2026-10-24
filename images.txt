@@ -2,11 +2,7 @@ alireza7/s-ui:latest
 
 jeessy/ddns-go
 
-diygod/rsshub
-redis:alpine
-browserless/chrome
-
-freshrss/freshrss:latest
+garethgeorge/backrest:latest
 
 matrixdotorg/synapse:latest
 
@@ -16,7 +12,6 @@ ghcr.io/blakeblackshear/frigate:stable
 
 jellyfin/jellyfin:latest
 ghcr.io/metatube-community/metatube-server:latest
-jlesage/handbrake
 
 cnk3x/xunlei:latest
 
