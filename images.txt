@@ -11,7 +11,7 @@ ghcr.io/gethomepage/homepage:latest
 ghcr.io/blakeblackshear/frigate:stable
 
 jellyfin/jellyfin:latest
-ghcr.io/metatube-community/metatube-server:latest
+evilhsu/avcnv:latest
 
 cnk3x/xunlei:latest
 
