@@ -11,7 +11,7 @@ ghcr.io/gethomepage/homepage:latest
 ghcr.io/blakeblackshear/frigate:stable
 
 jellyfin/jellyfin:latest
-evilhsu/avcnv:latest
+zocker160/handbrake-nvenc:latest
 
 cnk3x/xunlei:latest
 
