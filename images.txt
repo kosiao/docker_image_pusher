@@ -12,6 +12,7 @@ ghcr.io/blakeblackshear/frigate:stable
 
 jellyfin/jellyfin:latest
 jlesage/handbrake
+ tinymediamanager/tinymediamanager:latest
 
 cnk3x/xunlei:latest
 
