@@ -12,7 +12,7 @@ ghcr.io/blakeblackshear/frigate:stable
 
 jellyfin/jellyfin:latest
 jlesage/handbrake
- tinymediamanager/tinymediamanager:latest
+amtoaer/bili-sync-rs:latest
 
 cnk3x/xunlei:latest
 
