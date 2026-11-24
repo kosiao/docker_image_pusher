@@ -28,3 +28,5 @@ gitea/gitea:latest
 openlistteam/openlist:latest-aio
 
 josh5/steam-headless:latest
+
+ponphil/litepan:beta
